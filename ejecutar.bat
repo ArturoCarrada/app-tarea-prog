@@ -10,7 +10,7 @@
 chcp 65001 > nul
 
 :: 1. Ir a la raíz del proyecto
-cd /d "C:\Users\dacarrada\Desktop\Daniel Carrada\PROYECTOS\Santander-Smart\Proyecto-Prueba\app-tarea-prog-test"
+cd /d "C:\"
 
 :: 2.Asegurar versión de Node con NVM
 call nvm use 20.20.0
