@@ -3,7 +3,7 @@
 ::==============================================================================================================================
 @echo off   
 
-:: NOTA: Se debe tener instaldo previamente Node mediante NVM (Node Version Manager) para Windows (este se instala primero),
+:: NOTA: Se debe tener instalado previamente Node mediante NVM (Node Version Manager) para Windows (este se instala primero),
 ::      e instalar ahora así la versión de Node que se va a usar (en este caso, 20.20.0)
 
 :: Forzar a la consola a usar UTF-8 para que los acentos se vean bien en el log del visor de eventos
