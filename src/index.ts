@@ -9,7 +9,7 @@ const main = async(): Promise<void> => {
         const resultadoPrueba: number = 10 + 20;
         writeLog(`INFO: Resultado de cálculo tipado: ${resultadoPrueba}`);
 
-        writeLog("FIN: Proceso TS completado.");
+        writeLog("FIN: Proceso TS completado exitosamente.");
         // throw new Error("Prueba de fallo");
         process.exit(0);
     } catch (error) {
